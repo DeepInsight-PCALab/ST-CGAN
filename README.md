@@ -16,6 +16,8 @@ DeepInsight@PCALab, Nanjing University of Science and Technology.
 }
 ## ISTD Dataset
 ISTD dataset is available in [Google Drive](https://drive.google.com/file/d/1I0qw-65KBA6np8vIZzO6oeiOvcDBttAY/view)
+## Removal Results on ISTD
+Shadow removal results on ISTD is available in [Google Drive](https://drive.google.com/drive/folders/1gNEZVoNk-0F_MzhXdqkd03f_aRhzurbg?usp=sharing)  (including the results of all the method we compared in our paper).
 
 ## License
 Copyright (c) 2018, PCALab (NJUST) All rights reserved.  
